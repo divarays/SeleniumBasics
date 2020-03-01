@@ -37,7 +37,7 @@ public class SelectFromDropdown {
 			System.out.println(xyz.getText());
 		}
 
-		//multiDD.deselectAll();
+		multiDD.deselectAll();
 
 		Thread.sleep(20000);
 		
